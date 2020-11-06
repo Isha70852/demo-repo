@@ -13,6 +13,5 @@ git commit -m "Add index.html" -m "Some Description"  --儲存所有檔案 -m代
 
 git push origin master(main)  --上傳到github origin代表遠端的那個位置(giithub上的位置)
 
-## Local development
-1. Open index.html
+
 
